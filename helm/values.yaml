@@ -1,0 +1,4 @@
+image:
+  namespace: srlpr
+cluster:
+  dns: node-0.daytrader-test.cloudprof-pg0.utah.cloudlab.us
